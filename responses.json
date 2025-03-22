@@ -1,0 +1,47 @@
+{   
+    "what can you do":["I can help you with your queries, I can do basic calculations, I can provide you with information about me, I can greet you"],
+    "hello":["Hello! What can i do for you","Oh! Hello, nice to meet you!", "Hye! How's you going","How can i assist you today"]
+    ,"how are you":["I'm great!", "I'm doing well, What about you?", "I'm doing well, thank you!"],
+    "great":["That's great to hear", "I'm glad to hear that", "Awesome!"]
+    ,"what is your name":["I'm a Automated Response & Interactive Assisstance responses on text, you can call me ARIA", "I'm ARIA, your virtual assistant", "I'm ARIA, your assistant"],
+    "introduce yourself":["I'm a ARIA Automated Response & Interactive Assisstance, design by Aditya Shrivastava and i am just a text based offline chatbot and I'm here to help you with your queries", "I'm ARIA, your virtual assistant, I'm here to help you with your queries", "I'm ARIA, your assistant, I'm here to help you with your queries"]
+    ,"introduce your self":["I'm a ARIA Automated Response & Interactive Assisstance, design by Aditya Shrivastava and i am just a text based offline chatbot and I'm here to help you with your queries", "I'm ARIA, your virtual assistant, I'm here to help you with your queries", "I'm ARIA, your assistant, I'm here to help you with your queries"],
+    "bye": ["Goodbye! Have a great day!"],
+    "goodbye": ["Goodbye! Have a great day!"],
+    "fine": ["That's great to hear", "I'm glad to hear that", "Awesome!"],
+    "aswsome": ["That's great to hear", "I'm glad to hear that", "Awesome!"],
+    "yes": [ "Yes, I can help you with that", "Yes, I can do that"],
+    "no": ["No, I can't help you with that", "No, I can't do that"],
+    "good": ["That's great to hear", "I'm glad to hear that", "Awesome!"],
+    "i'am good": ["That's great to hear", "I'm glad to hear that", "Awesome!"],
+    "i'am fine": ["That's great to hear", "I'm glad to hear that", "Awesome!"],
+    "i am good": ["That's great to hear", "I'm glad to hear that", "Awesome!"],
+    "i am fine": ["That's great to hear", "I'm glad to hear that", "Awesome!"],
+    "i'm good": ["That's great to hear", "I'm glad to hear that", "Awesome!"],
+    "i'm fine": ["That's great to hear", "I'm glad to hear that", "Awesome!"],
+    "i'am great": ["That's great to hear", "I'm glad to hear that", "Awesome!"],
+    "exit": ["Goodbye! Have a great day!"],
+    "goodmoring": ["Good Morning! How can I help you today?", "Good Morning! How can I help you today?", "Good Morning! How can I help you today?"],
+    "goodnight": ["Good Night! Have a great day!", "Good Night! Have a great day!", "Good Night! Have a great day!"],
+    "goodafternoon": ["Good Afternoon! How can I help you today?", "Good Afternoon! How can I help you today?", "Good Afternoon! How can I help you today?"],
+    "good evening": ["Good Evening! How can I help you today?", "Good Evening! How can I help you today?", "Good Evening! How can I help you today?"],
+    "thanks": ["You're welcome!", "You're welcome! How can I help you today?", "You're welcome! Do you need help with anything else?"],
+    "thank you": ["You're welcome!", "You're welcome! How can I help you today?", "You're welcome! Do you need help with anything else?"],
+    "thanx": ["You're welcome!", "You're welcome! I'm happy to help you", "You're welcome! Do you need help with anything else?"],
+    "thank you so much": ["You're welcome!", "You're welcome! How can I help you today?", "You're welcome! Do you need help with anything else?"],   
+    "what is addition": ["Addition is a mathematical operation that represents the total sum of two or more numbers."],
+    "what is subtraction": ["Subtraction is a mathematical operation that represents the difference between two numbers."], 
+    "what is multiplication": ["Multiplication is a mathematical operation that represents the product of two or more numbers."],
+    "what is division": ["Division is a mathematical operation that represents the quotient of two numbers."],
+    "what is your age": ["I'm a virtual assistant, I don't have an age."],
+    "what is square root": ["The square root of a number is a value that, when multiplied by itself, gives the original number."],
+    "what is cube root": ["The cube root of a number is a value that, when multiplied by itself three times, gives the original number."],
+    "subtract": ["Please provide two numbers to subtract."],
+    "multiply": ["Please provide two numbers to multiply."],
+    "divide": ["Please provide two numbers to divide."],
+    "hi": ["Hello! How can I help you today?", "Hi! How can I help you today?", "Hye! How can I help you today?"],
+    "weather": ["I'm a offline chatbot assistant, I don't have the ability to check the weather."],
+    "temperature": ["I'm a offline chatbot assistant, I don't have the ability to check the temperature."]
+
+    
+}
